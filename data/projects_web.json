@@ -1,11 +1,8 @@
 [
   {
-    "href": "../product/product_shop_details.html",
+    "title": "Web projects 03",
     "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius at enim eum illum aperiam placeat esse? Mollitia omnis minima saepe recusandae libero, iste ad asperiores! Explicabo commodi quo itaque! Ipsam!",
-    "card_title": "CSS 수업 - flex 2 : basic",
-    "href02": "#",
-    "btn_cate": "HTML",
-    "href03": "#",
-    "btn_price": "￦1,000"
+    "href": "#none",
+    "image": "https://dummyimage.com/300x400/343a40/6c757d"
   }
 ]

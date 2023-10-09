@@ -1,6 +1,6 @@
 let cardHTML = "";
 let elements = [];
-$.getJSON("data/projects_app.json", function (data) {
+$.getJSON("/data/projects_app.json", function (data) {
   $.each(data, function (i, item) {
     cardHTML = `
     <div class="card overflow-hidden shadow rounded-4 border-0 mb-5">
@@ -12,7 +12,7 @@ $.getJSON("data/projects_app.json", function (data) {
                   <a class="btn btn-outline-dark btn-lg px-5 py-3 fs-6 fw-bolder" href="${item.href}">바로가기</a>
               </div>
               <img class="img-fluid float-right" src="${item.image}"
-                  alt="${item.title}" />
+                  alt="${item.title}">
           </div>
       </div>
   </div>
