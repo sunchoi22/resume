@@ -1,6 +1,7 @@
 let cardHTML = "";
 let elements = [];
-$.getJSON("data/projects_app.json", function (data) {
+$.getJSON("resume/data/projects_app.json", function (data) { //git 연결용
+  // $.getJSON("data/projects_app.json", function (data) { //local 확인용
   $.each(data, function (i, item) {
     cardHTML = `
     <div class="card overflow-hidden shadow rounded-4 border-0 mb-5">
