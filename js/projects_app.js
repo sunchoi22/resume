@@ -1,7 +1,6 @@
 let cardHTML = "";
 let elements = [];
-console.log('이건됨');
-$.getJSON("../data/projects_app.json", function (data) {
+$.getJSON("data/projects_app.json", function (data) {
   $.each(data, function (i, item) {
     cardHTML = `
     <div class="card overflow-hidden shadow rounded-4 border-0 mb-5">
