@@ -1,7 +1,6 @@
 let cardHTML = "";
 let elements = [];
-$.getJSON("resume/data/projects_app.json", function (data) { //git 연결용
-  // $.getJSON("data/projects_app.json", function (data) { //local 확인용
+$.getJSON("./data/projects_app.json", function (data) {
   $.each(data, function (i, item) {
     cardHTML = `
     <div class="card overflow-hidden shadow rounded-4 border-0 mb-5">
@@ -17,7 +16,8 @@ $.getJSON("resume/data/projects_app.json", function (data) { //git 연결용
           </div>
       </div>
   </div>
-`;
+  `;
+    console.log(data);
     elements.push(cardHTML);
   });
   $(".projects-card-body").append(elements);
