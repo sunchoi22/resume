@@ -13737,3 +13737,10 @@ body {
   right: 0;
   z-index: 1;
 }
+
+.resume_education01_list>p:last-child,
+.resume_education02_list>p:last-child,
+.resume_education03_list>p:last-child,
+.resume_experience_list>p:last-child {
+  margin-bottom: 10px !important;
+}

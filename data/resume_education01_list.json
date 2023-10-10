@@ -1,0 +1,26 @@
+[
+  {
+    "href": "http://sh00091.dothome.co.kr/web/html/",
+    "href02": "http://sh00091.dothome.co.kr/web/mobile/",
+    "title": "예술의전당 리뉴얼",
+    "title01": "[Web] ",
+    "title02": "[Mobile]",
+    "text": "예술의 전당 리뉴얼 웹사이트 입니다.",
+    "date": "2021.02 - 2021.07",
+    "person": "본인 1인",
+    "persent": "100",
+    "worklist": "메인 배너, 제품 이미지, 로고, 각 페이지 별 이미지, 푸터, 아이콘, 최근 본 상품 날개 코딩, 회사소개, 브랜드 소개, 이벤트 등"
+  },
+  {
+    "href": "http://sh00091.dothome.co.kr/web/tetris/tetris.html",
+    "href02": "",
+    "title": "테트리스",
+    "title01": "",
+    "title02": "",
+    "text": "무한으로 즐길 수 있는 테트리스 게임입니다.",
+    "date": "2021.08.05 - 2021.08.06",
+    "person": "본인 1인",
+    "persent": "100",
+    "worklist": "테트리스 게임 디자인 작업"
+  }
+]
