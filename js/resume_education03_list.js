@@ -14,28 +14,23 @@ $.getJSON("./data/resume_education03_list.json", function (data) {
     <p class="mb-2">${item.date}</p>
     <h5 class="h6 fw-bolder m-0">개발 인원</h5>
     <p class="mb-2">${item.person} </p>
-    <h5 class="h6 fw-bolder m-0">담당업무 - 디자인 및 퍼블리싱</h5>
-    <p class="m-0">&#40;담당업무 기여도 &#58; ${item.persent}%&#41;</p>
-    <a href="${item.href_site01}" target="_blank">${item.page_site01}</a>,
-    <a href="${item.href_site02}" target="_blank">${item.page_site02}</a>,
-    <a href="${item.href_site03}" target="_blank">${item.page_site03}</a>,
-    <p>
+    <h5 class="h6 fw-bolder m-0">담당업무 <span class="fw-normal"> - 디자인 및 퍼블리싱 &#40;담당 제작 기여도 &#58; ${item.persent}%&#41;</span></h5>
 
-강의 상세보기 -
-<a href="http://keepcoding.dothome.co.kr/keepcoding/main/product/product_shop_details.php?pid=1"
-target="_blank">
-일반 강의</a>,
-<a href="http://keepcoding.dothome.co.kr/keepcoding/main/product/product_shop_details.php?pid=55"
-target="_blank">숏 강의</a><br>
-마이페이지 -
-<a href="http://keepcoding.dothome.co.kr/keepcoding/main/mypage/myproduct_list.php"
-target="_blank">
-나의 강의</a>,
-<a href="http://keepcoding.dothome.co.kr/keepcoding/main/mypage/mycoupon_list.php"
-target="_blank">
-나의 쿠폰</a>
-
-    
+    <div class="mb-5">
+      <a href="${item.href_site01}" target="_blank">${item.page_site01}</a>
+      <a href="${item.href_site02}" target="_blank">${item.page_site02}</a>
+      <a href="${item.href_site03}" target="_blank">${item.page_site03}</a>
+      <a href="${item.href_site04}" target="_blank">${item.page_site04}</a>
+      <a href="${item.href_site05}" target="_blank">${item.page_site05}</a>
+      <a href="${item.href_site06}" target="_blank">${item.page_site06}</a>
+      <a href="${item.href_site07}" target="_blank">${item.page_site07}</a>
+      <a href="${item.href_site08}" target="_blank">${item.page_site08}</a>
+      <a href="${item.href_site09}" target="_blank">${item.page_site09}</a>
+      <a href="${item.href_site10}" target="_blank">${item.page_site10}</a>
+      <a href="${item.href_site11}" target="_blank">${item.page_site11}</a>
+      <a href="${item.href_site12}" target="_blank">${item.page_site12}</a>
+      <a href="${item.href_site13}" target="_blank">${item.page_site13}</a>
+    </div>
     `;
     ed03elements.push(ed03cardHTML);
   });
