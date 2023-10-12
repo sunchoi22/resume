@@ -86,11 +86,6 @@
   box-sizing: border-box;
 }
 
-ol,
-ul {
-  list-style: none;
-}
-
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
@@ -13729,23 +13724,4 @@ html {
     width: 1.5vw;
     left: -2vw;
   }
-}
-
-body {
-  padding-top: 72px;
-}
-
-.navbar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 1;
-}
-
-.resume_education01_list>p:last-child,
-.resume_education02_list>p:last-child,
-.resume_education03_list>div:last-child,
-.resume_experience_list>p:last-child {
-  margin-bottom: 10px !important;
 }
