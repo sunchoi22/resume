@@ -17,3 +17,10 @@ body {
 .resume_experience_list>p:last-child {
   margin-bottom: 10px !important;
 }
+
+@media (width < 768px) {
+  .DLtext {
+    display: none;
+    background: rebeccapurple;
+  }
+}
