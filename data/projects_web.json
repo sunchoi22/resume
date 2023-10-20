@@ -1,8 +1,11 @@
 [
   {
-    "title": "Web projects 03",
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius at enim eum illum aperiam placeat esse? Mollitia omnis minima saepe recusandae libero, iste ad asperiores! Explicabo commodi quo itaque! Ipsam!",
+    "title": "예술의전당 리뉴얼",
+    "text": "예술의 전당 리뉴얼 웹사이트 입니다.예술의 전당 리뉴얼 웹사이트 입니다.예술의 전당 리뉴얼 웹사이트 입니다.예술의 전당 리뉴얼 웹사이트 입니다.",
+    "period": "예술의 전당 리뉴얼 웹사이트 입니다.",
+    "personnel": "예술의 전당 리뉴얼 웹사이트 입니다.",
+    "work": "예술의 전당 리뉴얼 웹사이트 입니다.",
     "href": "#none",
-    "image": "https://dummyimage.com/300x400/343a40/6c757d"
+    "src": "https://dummyimage.com/300x400/343a40/6c757d"
   }
 ]

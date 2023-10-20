@@ -1,20 +1,26 @@
 let cardHTML = "";
 let elements = [];
-$.getJSON("../data/projects_app.json", function (data) {
+$.getJSON("../data/projects_web.json", function (data) {
   // console.log(data);
   $.each(data, function (i, item) {
-    cardHTML = `<div class='card sec2 text-center p-0' data-bs-theme='dark'>
-    <a href='${item.href}'>
-    <div class="card-img-top-wrap">
-      <img src='${item.image}'class='card-img-top' alt='example img'>
-      </div>
-    </a>
-      <div class='card-body z-3'>
-        <p class='card-title text-center fw-semibold'><a href='${item.href}'>${item.card_title}</a></p>
-        <a href='${item.href02}' class='btn btn-primary fs-10 mt-2'>${item.btn_cate}</a>
-        <a href='${item.href03}' class='btn btn-primary fs-10 mt-2'>${item.btn_price}</a>
-    </div></div>`;
+    cardHTML = `
+    <div class="card overflow-hidden shadow rounded-4 border-0 mb-5">
+    <div class="projects-card-body card-body p-0">
+        <div class="d-md-flex align-items-center">
+            <div class="p-5">
+                <h2 class="fw-bolder">${item.title}</h2>
+                <p>${item.text}</p>
+                <p><b>개발 기간</b>${item.period}</p>
+                <p><b>개발 인원</b>${item.personnel}</p>
+                <p><b>담당 업무</b>${item.work}</p>
+                <a class="btn btn-outline-dark btn-lg px-5 py-3 fs-6 fw-bolder" href="${item.href}">바로가기</a>
+            </div>
+            <img class="img-fluid" src="${item.src}" alt="${item.title}">
+        </div>
+    </div>
+</div>
+    `;
     elements.push(cardHTML);
   });
-  $(".card_list").append(elements);
+  $(".projects-card-body").append(elements);
 });
