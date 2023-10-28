@@ -1,6 +1,6 @@
 let cardHTML = "";
 let elements = [];
-$.getJSON("../data/projects_web.json", function (data) {
+$.getJSON("./data/projects_web.json", function (data) {
   // console.log(data);
   $.each(data, function (i, item) {
     cardHTML = `

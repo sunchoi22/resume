@@ -1,4 +1,4 @@
-[  
+[
   {
     "title": "4차 KEEPCODING LMS",
     "text": "4차 프로젝트 팀 주토피아의 LMS 학습자 페이지입니다.<br>이용이 쉽고 편리한 UX UI, 이용자 수준에 맞는 난이도의 강좌를 쉽게 접할 수 있는 학습사이트입니다.<br>(🖥️ PC 전용)<br>📢 마이페이지 확인은 로그인 해주세요.<br>(회원ID : 111, 회원PW : 111)",
@@ -6,7 +6,7 @@
     "personnel": "본인 포함 4인",
     "work": "담당업무 - 디자인 및 퍼블리싱 (담당 제작 기여도 : 100%)<br>메인페이지, 강의 탐색, 숏강의, 일반 강의 상세, 숏 강의 상세, 나의 강의, 나의 쿠폰",
     "href": "http://keepcoding.dothome.co.kr/keepcoding/main/index.php",
-    "src": "../img/4th.svg"
+    "src": "./img/4th.svg"
   },
   {
     "title": "3차 KEEPCODING LMS",
@@ -15,7 +15,7 @@
     "personnel": "본인 포함 4인",
     "work": "디자인 및 퍼블리싱 (담당 제작 기여도 : 100%)<br>강좌 관리 - 리스트, 강좌 상세보기, 강좌 등록, 강좌 수정, 강사 관리, 수강생 관리, 쿠폰 수정, 공지사항 - 리스트, 공지 상세보기, 공지 등록, 공지 수정 Q&A게시판 - 리스트 Q&A 상세보기",
     "href": "http://keepcoding.dothome.co.kr/keepcoding/admin/login.php",
-    "src": "../img/3rd.svg"
+    "src": "./img/3rd.svg"
   },
   {
     "title": "2차 LG 그램 전용 웹사이트",
@@ -24,7 +24,7 @@
     "personnel": "본인 포함 4인",
     "work": "디자인 및 퍼블리싱 (담당 제작 기여도 : 100%)<br>메인 - Header, 그램스토리, 연관제품",
     "href": "https://sunchoi22.github.io/lg_gram_renewal_website/",
-    "src": "../img/2nd.svg"
+    "src": "./img/2nd.svg"
   },
   {
     "title": "1차 스타벅스 메인 리뉴얼",
@@ -33,7 +33,7 @@
     "personnel": "본인 포함 4인",
     "work": "디자인 및 퍼블리싱 (담당 제작 기여도 : 100%) <br> Section2 - Best Slide, Section5 - Store",
     "href": "https://sunchoi22.github.io/Team_StarBucks/",
-    "src": "../img/1st.svg"
+    "src": "./img/1st.svg"
   },
   {
     "title": "정션해커톤 : ZEP 전시장",
@@ -42,7 +42,7 @@
     "personnel": "본인 포함 4인 (제작 기여도 : 기획, 디자인 90%)",
     "work": " 기획, 디자인",
     "href": "https://zep.us/play/25X4Mg",
-    "src": "../img/pfamily.svg"
+    "src": "./img/pfamily.svg"
   },
   {
     "title": "SSULHOUSE",
@@ -51,7 +51,7 @@
     "personnel": "본인 포함 2인 (제작 기여도 : 50%)",
     "work": " 메인 배너, 제품 이미지, 로고, 각 페이지 별 이미지, 푸터, 아이콘, 최근 본 상품 날개 코딩, 회사소개, 브랜드 소개, 이벤트 등",
     "href": "https://ssulza.co.kr/",
-    "src": "../img/ssulza.svg"
+    "src": "./img/ssulza.svg"
   },
   {
     "title": "백년농산은",
@@ -60,7 +60,7 @@
     "personnel": "본인 포함 2인 (제작 기여도 : 50%)",
     "work": " 메인 페이지 작업 및 이미지, 회사소개 페이지 작업, 사업영역 페이지 작업, 아이콘 제작, 파비콘 작업 등",
     "href": "http://farmtec.co.kr/default/",
-    "src": "../img/farm.svg"
+    "src": "./img/farm.svg"
   },
   {
     "title": "예술의전당 리뉴얼",
@@ -69,6 +69,6 @@
     "personnel": "본인 1인 (제작 기여도 : 100%)",
     "work": " 메인 배너, 제품 이미지, 로고, 각 페이지 별 이미지, 푸터, 아이콘, 최근 본 상품 날개 코딩, 회사소개, 브랜드 소개, 이벤트 등",
     "href": "http://sh00091.dothome.co.kr/web/html/",
-    "src": "../img/art.svg"
+    "src": "./img/art.svg"
   }
 ]
