@@ -6,7 +6,7 @@
     "personnel": "본인 포함 5인<br> (제작 기여도 : 기획, 디자인(1.5인) 90%)",
     "work": "기획, 디자인",
     "href": "https://www.figma.com/proto/KbeFoJCe04In2zTBfXwHAi/Macro-Challenge-%3A-Eyeku_resume?page-id=0%3A1&type=design&node-id=0-480&viewport=1670%2C1039%2C0.27&t=2ce6Qqg7lPzng2KN-1&scaling=min-zoom&starting-point-node-id=0%3A2456",
-    "image": "./img/Eyeku.svg"
+    "image": "./img/eyeku.svg"
   },
   {
     "title": "Nano Challenge 2 : SEESUN",
@@ -15,7 +15,7 @@
     "personnel": "본인 1인 (제작 기여도 : 100%)",
     "work": "기획, 디자인, 발표",
     "href": "https://www.figma.com/proto/reOt06Z0qSmkzCW6CugzNS/Nano-Challenge-2-%3A-SEESUN_resume?page-id=0%3A1&type=design&node-id=0-1148&viewport=347%2C316%2C0.25&t=pCJKbK6Y3ABzDCXg-1&scaling=min-zoom&starting-point-node-id=0%3A1148",
-    "image": "./img/Seesun.svg"
+    "image": "./img/seesun.svg"
   },
   {
     "title": "Side Challenge 4 : 한판붙자!",
@@ -24,7 +24,7 @@
     "personnel": "본인 포함 4인<br> (제작 기여도 : 기획, 디자인(1.5인) 90%)",
     "work": "기획, 디자인",
     "href": "https://www.figma.com/file/XouNWsrprb6UT1wjIfC2dP/Side-Challenge-4-%3A-%ED%95%9C%ED%8C%90%EB%B6%99%EC%9E%90!_resume?type=design&node-id=0-1&mode=design&t=wLjj4akT94LUYphr-0",
-    "image": "./img/Daidai.svg"
+    "image": "./img/daidai.svg"
   },
   {
     "title": "Side Challenge 3 : 和ドル",
@@ -33,7 +33,7 @@
     "personnel": "본인 포함 2인 (제작 기여도 : 디자인 100%)",
     "work": "기획, 디자인",
     "href": "https://www.figma.com/file/Fv4pmtBNngIqYaFkrbwv4T/Side-Challenge-3-%3A-%E5%92%8C%E3%83%89%E3%83%AB_resume?type=design&node-id=0-1&mode=design&t=EPozGh2SeS0tkge3-0",
-    "image": "./img/Japanese.svg"
+    "image": "./img/japanese.svg"
   },
   {
     "title": "Mini Challenge 3 : Appoint",
@@ -42,7 +42,7 @@
     "personnel": "본인 포함 5인<br> (제작 기여도 : 기획, 발표, 코딩 20%, 디자인(3인) 30%)",
     "work": "기획, 디자인, 코딩, 발표",
     "href": "https://www.figma.com/proto/rHcUsvWXwNHA6xB9MF3OLK/Mini-Challenge-3-%3A-Appoint_resume?page-id=0%3A1&type=design&node-id=0-1031&viewport=1343%2C447%2C0.43&t=2qdlXxNUv4auYfbU-1&scaling=min-zoom",
-    "image": "./img/Appoint.svg"
+    "image": "./img/appoint.svg"
   },
   {
     "title": "Mini Challenge 2 : Aenitto",
@@ -51,7 +51,7 @@
     "personnel": "본인 포함 6인 (제작 기여도 : 기획, 코딩 5%, 디자인(1.5인) 80%)",
     "work": "기획, 디자인, 코딩",
     "href": "https://apps.apple.com/us/app/%EC%95%A0%EB%8B%88%EB%98%90-aenitto/id1642486538?utm_source=appstore",
-    "image": "./img/Aenitto.svg"
+    "image": "./img/aenitto.svg"
   },
   {
     "title": "Side Challenge 1 : 탄소발자국",
@@ -60,7 +60,7 @@
     "personnel": "본인 1인 (제작 기여도 : 100%)",
     "work": "기획, 디자인, 코딩",
     "href": "https://drive.google.com/file/d/1hzARQFK3_BcfpmpD3Sg3mZ0Bk_ZKIP7L/view",
-    "image": "./img/CarbonFootprint.svg"
+    "image": "./img/carbonFootprint.svg"
   },
   {
     "title": "Mini Challenge 1 : Povida",
